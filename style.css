@@ -1,0 +1,29 @@
+.jumbotron {
+  padding      : 20px!important !important;
+  margin-bottom: 0px!important;
+  background   : rgb(147,250,255);
+  background   : linear-gradient(90deg, rgba(147,250,255,1) 0%, rgba(45,178,186,1) 32%, rgba(64,198,250,1) 74%, rgba(36,208,244,1) 92%, rgba(65,200,255,1) 100%, rgba(43,213,33,0.8939950980392157) 100%);
+  border-radius: 0px!important;
+}
+
+.col-md-3 .ceit-logo {
+  width : 90px;
+  height: 90px;
+}
+
+.social-icons {
+  padding-top: 1em;
+}
+/*column 2 and 3*/
+.bg {
+  text-align      : center;
+  background-color: #A8F0C2;
+}
+/*column 1*/
+.lg {
+  background-color: #A8F0C2;
+}
+
+.bf {
+  text-align: center;
+}
